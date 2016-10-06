@@ -1,0 +1,6 @@
+login
+wait 5
+movejunktoinbox
+readallunread
+#emptyinbox
+#emptyjunk
